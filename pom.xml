@@ -47,8 +47,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:JonasRex/sf-pet-clinic.gite</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <url>https://github.com/JonasRex/sf-pet-clinic.git</url>
+        <connection>scm:git:https://github.com/(username)/(repo).git</connection>
+    </scm>
 
 </project>
