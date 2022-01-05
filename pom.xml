@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:JonasRex/sf-pet-clinic.gite</developerConnection>
-      <tag>sf-pet-clinic-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
