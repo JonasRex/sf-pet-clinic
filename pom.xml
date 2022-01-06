@@ -14,7 +14,7 @@
     </parent>
     <groupId>rex.springframework</groupId>
     <artifactId>sf-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>sf-pet-clinic</name>
     <description>sf-pet-clinic</description>
     <properties>
